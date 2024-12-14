@@ -1,0 +1,18 @@
+{
+  "Fri Dec 06 2024": [
+    {
+      "name": "hello",
+      "startTime": "19:58",
+      "endTime": "20:00",
+      "description": "",
+      "type": "Other"
+    },
+    {
+      "name": "bye",
+      "startTime": "00:00",
+      "endTime": "01:00",
+      "description": "",
+      "type": "Work"
+    }
+  ]
+}
